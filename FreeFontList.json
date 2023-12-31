@@ -1,0 +1,78 @@
+{
+  "version": "1.0.0",
+  "fonts": [{
+    "name": "MantouSans",
+    "names": {
+      "zh-TW": "饅頭黑體"
+    },
+    "version": "1.009",
+    "url": "https://github.com/mant0u0/MantouSans",
+    "downloadUrl": "https://github.com/mant0u0/MantouSans/archive/refs/tags/v1.009.zip",
+    "donateUrl": "https://github.com/mant0u0/MantouSans#抖內支持",
+    "license": {
+      "type": "SIL Open Font License 1.1",
+      "url": "https://github.com/mant0u0/MantouSans#開源授權規定"
+    }
+  }, {
+    "name": "iansui",
+    "names": {
+      "zh-TW": "芫荽"
+    },
+    "version": "1.002",
+    "url": "https://github.com/ButTaiwan/iansui",
+    "downloadUrl": "https://github.com/ButTaiwan/iansui/releases/download/v1.000/iansui.zip",
+    "donateUrl": "https://github.com/ButTaiwan/iansui#請斗內qq",
+    "license": {
+      "type": "SIL Open Font License 1.1",
+      "url": "https://github.com/ButTaiwan/iansui#開源授權規定"
+    }
+  }, {
+    "name": "隨峰體",
+    "version": "0.101",
+    "url": "https://cjkfonts.io/blog/ThePeakFont",
+    "downloadUrl": "https://cjkfonts.io/downloadfont?font_id=cjkfonts_003&v=0.02",
+    "license": {
+      "type": "SIL Open Font License",
+      "url": "https://cjkfonts.io/blog/ThePeakFont"
+    }
+  }, {
+    "name": "Cubic 11",
+    "names": {
+      "zh-TW": "俐方體11號"
+    },
+    "version": "1.100",
+    "url": "https://github.com/ACh-K/Cubic-11",
+    "downloadUrl": "https://github.com/ACh-K/Cubic-11/releases/download/v1.100/Cubic_11.zip",
+    "donateUrl": "https://github.com/ACh-K/Cubic-11#贊助管道",
+    "license": {
+      "type": "SIL Open Font License 1.1",
+      "url": "https://github.com/ACh-K/Cubic-11#授權"
+    }
+  }, {
+    "name": "Chiron Hei HK",
+    "names": {
+      "zh-TW": "昭源黑體"
+    },
+    "version": "2.509",
+    "url": "https://github.com/chiron-fonts/chiron-hei-hk",
+    "downloadUrl": "https://github.com/chiron-fonts/chiron-hei-hk/archive/refs/tags/v2.509.zip",
+    "donateUrl": "https://www.paypal.com/paypalme/tamcyhk",
+    "license": {
+      "type": "SIL Open Font License 1.1",
+      "url": "https://github.com/chiron-fonts/chiron-hei-hk#授權"
+    }
+  }, {
+    "name": "Chiron Sung HK",
+    "names": {
+      "zh-TW": "昭源宋體"
+    },
+    "version": "1.011",
+    "url": "https://github.com/chiron-fonts/chiron-sung-hk",
+    "downloadUrl": "https://github.com/chiron-fonts/chiron-sung-hk/archive/refs/tags/v1.011.zip",
+    "donateUrl": "https://www.paypal.com/paypalme/tamcyhk",
+    "license": {
+      "type": "SIL Open Font License 1.1",
+      "url": "https://github.com/chiron-fonts/chiron-sung-hk#授權"
+    }
+  }]
+}
