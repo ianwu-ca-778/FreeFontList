@@ -74,5 +74,18 @@
       "type": "SIL Open Font License 1.1",
       "url": "https://github.com/chiron-fonts/chiron-sung-hk#授權"
     }
+  }, {
+    "name": "Kurewa Gothic",
+    "names": {
+      "zh-TW": "苦累蛙圓體"
+    },
+    "version": "1.071",
+    "url": "https://github.com/max32002/kurewa-gothic/",
+    "downloadUrl": "https://github.com/max32002/kurewa-gothic/archive/refs/tags/1.071.zip",
+    "donateUrl": "https://github.com/max32002/kurewa-gothic/#贊助max",
+    "license": {
+      "type": "SIL Open Font License 1.1",
+      "url": "https://github.com/max32002/kurewa-gothic/#著作權與授權"
+    }
   }]
 }
