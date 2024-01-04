@@ -92,3 +92,19 @@ The list of free fonts collected online.
   }]
 }
 ```
+
+## 如何貢獻
+
+### 增加字型
+
+請根據 schema 修改 `FreeFontList.json` 檔案後，再發個 pull request 給我。
+
+### 回報問題與改善建議
+
+發個 issue 說明你遇到的問題或是改善的建議。 
+
+## 以下專案使用到本專案的字型列表
+
+如果你的專案有使用到這個列表，也可以在下面的專案列表增加上去，然後發個 `README.md` 的 pull request 給我。
+
+### 專案列表
