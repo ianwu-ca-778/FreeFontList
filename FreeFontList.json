@@ -87,5 +87,26 @@
       "type": "SIL Open Font License 1.1",
       "url": "https://github.com/max32002/kurewa-gothic/#著作權與授權"
     }
+  }, {
+    "name": "辰宇落雁體",
+    "version": "1.0",
+    "url": "https://github.com/Chenyu-otf/chenyuluoyan_thin",
+    "downloadUrl": "https://github.com/Chenyu-otf/chenyuluoyan_thin/archive/refs/tags/v1.0-monospaced.zip",
+    "license": {
+      "url": "https://github.com/Chenyu-otf/chenyuluoyan_thin#qa"
+    }
+  }, {
+    "name": "open-huninn",
+    "names": {
+      "zh-TW": "jf open 粉圓"
+    },
+    "version": "2.0",
+    "url": "https://github.com/justfont/open-huninn-font",
+    "downloadUrl": "https://github.com/justfont/open-huninn-font/releases/download/v2.0/jf-openhuninn-2.0.ttf",
+    "donateUrl": "https://justfont.com/huninn/",
+    "license": {
+      "type": "SIL Open Font License 1.1",
+      "url": "https://github.com/justfont/open-huninn-font#用都用放心用"
+    }
   }]
 }
