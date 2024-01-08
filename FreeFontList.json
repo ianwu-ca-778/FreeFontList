@@ -108,5 +108,33 @@
       "type": "SIL Open Font License 1.1",
       "url": "https://github.com/justfont/open-huninn-font#用都用放心用"
     }
+  }, {
+    "name": "台北黑體",
+    "url": "https://sites.google.com/view/jtfoundry/zh-tw",
+    "downloadUrl": "https://sites.google.com/view/jtfoundry/zh-tw/downloads",
+    "license": {
+      "type": "SIL Open Font License 1.1",
+      "url": "https://sites.google.com/view/jtfoundry/zh-tw/downloads"
+    }
+  }, {
+    "name": "Ark Pixel Font",
+    "names": {
+      "zh-TW": "方舟像素字体"
+    },
+    "url": "https://github.com/TakWolf/ark-pixel-font",
+    "downloadUrl": "https://github.com/TakWolf/ark-pixel-font/releases",
+    "donateUrl": "https://github.com/TakWolf/TakWolf/blob/master/payment-qr-codes.md",
+    "license": {
+      "type": "SIL Open Font License 1.1",
+      "url": "https://github.com/TakWolf/ark-pixel-font#授权许可"
+    }
+  }, {
+    "name": "豆腐烏",
+    "url": "https://tauhu.tw",
+    "downloadUrl": "https://tauhu.tw/ji-hing/",
+    "license": {
+      "type": "SIL Open Font License 1.1",
+      "url": "https://tauhu.tw/ji-hing/"
+    }
   }]
 }
