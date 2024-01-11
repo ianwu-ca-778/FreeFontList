@@ -136,5 +136,17 @@
       "type": "SIL Open Font License 1.1",
       "url": "https://tauhu.tw/ji-hing/"
     }
+  }, {
+    "name": "Smiley Sans",
+    "names": {
+      "zh-TW": "得意黑"
+    },
+    "version": "1.1.1",
+    "url": "https://github.com/atelier-anchor/smiley-sans",
+    "downloadUrl": "https://github.com/atelier-anchor/smiley-sans/releases/tag/v1.1.1",
+    "license": {
+      "type": "SIL Open Font License 1.1",
+      "url": "https://github.com/atelier-anchor/smiley-sans#许可证"
+    }
   }]
 }
