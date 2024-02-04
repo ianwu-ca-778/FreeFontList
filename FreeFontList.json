@@ -5,6 +5,7 @@
     "names": {
       "zh-TW": "饅頭黑體"
     },
+    "author": "Mant0u",
     "version": "1.009",
     "url": "https://github.com/mant0u0/MantouSans",
     "downloadUrl": "https://github.com/mant0u0/MantouSans/archive/refs/tags/v1.009.zip",
@@ -18,6 +19,7 @@
     "names": {
       "zh-TW": "芫荽"
     },
+    "author": "But Ko",
     "version": "1.002",
     "url": "https://github.com/ButTaiwan/iansui",
     "downloadUrl": "https://github.com/ButTaiwan/iansui/releases/download/v1.000/iansui.zip",
@@ -28,6 +30,7 @@
     }
   }, {
     "name": "隨峰體",
+    "author": "阿坤",
     "version": "0.101",
     "url": "https://cjkfonts.io/blog/ThePeakFont",
     "downloadUrl": "https://cjkfonts.io/downloadfont?font_id=cjkfonts_003&v=0.02",
@@ -40,6 +43,7 @@
     "names": {
       "zh-TW": "俐方體11號"
     },
+    "author": "ACh",
     "version": "1.100",
     "url": "https://github.com/ACh-K/Cubic-11",
     "downloadUrl": "https://github.com/ACh-K/Cubic-11/releases/download/v1.100/Cubic_11.zip",
@@ -79,6 +83,7 @@
     "names": {
       "zh-TW": "苦累蛙圓體"
     },
+    "author": "Max",
     "version": "1.071",
     "url": "https://github.com/max32002/kurewa-gothic/",
     "downloadUrl": "https://github.com/max32002/kurewa-gothic/archive/refs/tags/1.071.zip",
@@ -89,6 +94,7 @@
     }
   }, {
     "name": "辰宇落雁體",
+    "author": "Chenyu",
     "version": "1.0",
     "url": "https://github.com/Chenyu-otf/chenyuluoyan_thin",
     "downloadUrl": "https://github.com/Chenyu-otf/chenyuluoyan_thin/archive/refs/tags/v1.0-monospaced.zip",
@@ -100,6 +106,7 @@
     "names": {
       "zh-TW": "jf open 粉圓"
     },
+    "author": "justfont 就是字",
     "version": "2.0",
     "url": "https://github.com/justfont/open-huninn-font",
     "downloadUrl": "https://github.com/justfont/open-huninn-font/releases/download/v2.0/jf-openhuninn-2.0.ttf",
@@ -110,6 +117,7 @@
     }
   }, {
     "name": "台北黑體",
+    "author": "翰字鑄造 JT Foundry",
     "url": "https://sites.google.com/view/jtfoundry/zh-tw",
     "downloadUrl": "https://sites.google.com/view/jtfoundry/zh-tw/downloads",
     "license": {
@@ -121,6 +129,7 @@
     "names": {
       "zh-TW": "方舟像素字体"
     },
+    "author": "狼人小林",
     "url": "https://github.com/TakWolf/ark-pixel-font",
     "downloadUrl": "https://github.com/TakWolf/ark-pixel-font/releases",
     "donateUrl": "https://github.com/TakWolf/TakWolf/blob/master/payment-qr-codes.md",
@@ -130,6 +139,7 @@
     }
   }, {
     "name": "豆腐烏",
+    "author": "莊銘彥",
     "url": "https://tauhu.tw",
     "downloadUrl": "https://tauhu.tw/ji-hing/",
     "license": {
@@ -157,6 +167,7 @@
       "zh-TW": "思源宋體",
       "zh-HK": "思源宋體 香港"
     },
+    "author": "Adobe",
     "version": "2.002",
     "url": "https://github.com/adobe-fonts/source-han-serif",
     "downloadUrl": "https://github.com/adobe-fonts/source-han-serif/releases",
