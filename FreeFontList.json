@@ -148,5 +148,21 @@
       "type": "SIL Open Font License 1.1",
       "url": "https://github.com/atelier-anchor/smiley-sans#许可证"
     }
+  }, {
+    "name": "Source Han Serif",
+    "names": {
+      "ja-JP": "源ノ明朝",
+      "ko-KR": "본명조",
+      "zh-CN": "思源宋体",
+      "zh-TW": "思源宋體",
+      "zh-HK": "思源宋體 香港"
+    },
+    "version": "2.002",
+    "url": "https://github.com/adobe-fonts/source-han-serif",
+    "downloadUrl": "https://github.com/adobe-fonts/source-han-serif/releases",
+    "license": {
+      "type": "SIL Open Font License 1.1",
+      "url": "https://github.com/adobe-fonts/source-han-serif/blob/master/LICENSE.txt"
+    }
   }]
 }
