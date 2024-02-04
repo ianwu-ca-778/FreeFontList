@@ -25,6 +25,7 @@ The list of free fonts collected online.
   "names": {
     ...
   },
+  "author": "FooBar",
   "version": "1.0.0",
   "url": "https://www.foo.bar",
   "downloadUrl": "https://www.foo.bar/fooFont.zip",
@@ -38,6 +39,8 @@ The list of free fonts collected online.
 |屬性|說明|
 |--|--|
 |name|字型的主要名稱|
+|names|字型的次要名稱， Schema 請參考 [Names](#names)|
+|author|字型作者|
 |version|字型的版本|
 |url|字型的網站|
 |downloadUrl|字型的下載網址|
